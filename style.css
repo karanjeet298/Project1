@@ -1,0 +1,178 @@
+.mainheader{
+	width: 100%;
+    background-color:black;
+    opacity: 0.8;
+    position: fixed;
+    border-bottom: 2px solid black;
+    margin-top:-140px; 
+}
+
+header img{
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+	height: 120px;
+	width: 126px;
+}
+
+header nav{
+	float: right;
+margin-top: 40px;
+margin-right: 10px;
+
+
+}
+
+header nav ul li a{
+
+	text-decoration: none;
+    font-family: arial;
+    color: white;
+    margin: 10px;
+	
+	
+}
+header nav ul li a:hover{
+	color: #336699;
+	font-weight: bold;
+}
+
+ul li{
+
+	display: inline;
+	font-size:30px;
+	}
+
+.wrap{
+margin-top: 140px;
+}
+
+
+.main{
+margin-left: auto;
+
+}
+.main img{
+
+	width: 300px;
+	height: 300px;
+}
+.main section{
+	height: 550px;
+}
+
+section h1{
+
+	font-size: 28px;
+	text-align: center;
+
+}
+section p{
+
+	font-size: 14px;
+	text-align: center;
+}
+.hero{
+	margin-top: 10px;
+	background-color: #d3d3d3;
+	width: 100%;
+
+}
+.hero img{
+	width: 400px;
+	height: 400px;
+	margin-left: 450px;
+}
+
+.hero h1{
+	font-family: monospace;
+	color: #0066ff;
+	font-size:60px;
+	margin-left: 480px;
+}
+.hero p{
+	font-family: sans-serif;
+	font-size: 25px;
+    color: black;
+    margin-left: 520px;
+
+}
+.lower{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border: 1px solid black;
+}
+.lower img{
+
+width: 480px;
+height: 380px;
+margin-left: -10px;
+
+}
+.lower h1{
+
+    font-size: 30px;
+	text-align: center;
+	font-family: bold;
+
+}
+.lower p{
+     margin-top: 30px;
+     font-size: 25px;
+     color: #0066ff;
+	text-align: center;
+	font-family: bold;
+}
+
+footer{
+	background-color:#d3d3d3;
+	width: 100%;
+	height: 21px;
+}
+
+.copyright{
+	
+	
+	float: left;
+	margin-left: 410px;
+
+
+}
+.email{
+	
+	
+	float: left;
+	margin-left: 5px;
+	
+
+}
+.email i{
+	float: right;
+
+}
+.email p{
+	float: right;
+
+}
+.email a{
+	color: black;
+}
+.email p:hover{
+	text-decoration: underline;
+}
+.social{
+	
+	color: black;
+	float: right;
+	margin-right: 5px;
+
+	
+}
+.social a{
+	color: black;
+	
+}
+.social i:hover{
+	text-decoration: underline;
+
+}
